@@ -48,7 +48,7 @@ The dataset comprises multiple tables in the database. Here are the details of t
 
 [Faasos.ipynb](Faasos.ipynb): Jupyter Notebook containing the Python code for the exploratory data analysis of Faasos data using SQL queries.
 
-[Faasos solution (SQL Code).sql](Faasos%20solution%20(SQL%20Code).sql): MySQL script containing the queries for the exploratory data analysis of the Faasos data.
+[Faasos solution (SQL Code).sql](Faasos%20solution%20(SQL%20code).sql): MySQL script containing the queries for the exploratory data analysis of the Faasos data.
 
 ## Usage
 
